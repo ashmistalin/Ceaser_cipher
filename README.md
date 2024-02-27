@@ -58,7 +58,6 @@ int main() {
 
 
 ### Output:
-![Screenshot (472)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/4d9a91f7-32fa-41ed-96c8-8699329854f3)
 
 
 
