@@ -3,14 +3,14 @@
 ### REGISTER NUMBER : 212221040021
 ### AIM: 
 To implement the simple substitution technique named Caesar cipher using C language.
-### Steps:
+### STEPS:
 1. Read the plain text from the user.
 2. Read the key value from the user.
 3. If the key is positive then encrypt the text by adding the key with each character in the plain text.
 4. Else subtract the key from the plain text.
 5. Display the cipher text obtained above.
 
-### Program:
+### PROGRAM:
 ```
 #include <stdio.h>
 #include <ctype.h>
@@ -57,7 +57,7 @@ int main() {
 ```
 
 
-### Output:
+### OUTPUT:
 
 ## Encryption:
 ![Screenshot (473)](https://github.com/ashmistalin/Ceaser_cipher/assets/103128410/1625b02f-588c-46e7-9073-8451412bf4fe)
@@ -66,5 +66,5 @@ int main() {
 ![Screenshot (474)](https://github.com/ashmistalin/Ceaser_cipher/assets/103128410/dc0d29b1-b4ef-4c69-9ad8-ae0210e72526)
 
 
-### Result:
+### RESULT:
 Thus the implementation of Caesar cipher had been executed successfully.
